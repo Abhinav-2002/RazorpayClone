@@ -1,7 +1,11 @@
 {
   "scripts": {
+<<<<<<< HEAD
     "build": "vite build",
   "start": "vite preview"
+=======
+    "start": "vite"
+>>>>>>> b9e435545036aab274a5a86076be3b3372df4f52
   },
   "devDependencies": {
     "autoprefixer": "^10.4.18",
